@@ -8,7 +8,7 @@ Disclaimer: This is the HTML file for my in-development Twine game. It is a work
 - Open the HTML file in a web browser.
 
 ## Prototype Status
-- Anglerfish path currently in development; other paths awaiting action.
+- Anglerfish and Laika path currently in development; Ayreshire path awaiting action.
 
 ## License
 - CC BY-NC
