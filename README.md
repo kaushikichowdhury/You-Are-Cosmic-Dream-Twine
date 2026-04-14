@@ -11,7 +11,7 @@ Disclaimer: This is the HTML file for my in-development Twine game. It is a work
 - Anglerfish and Laika path currently in development; Ayreshire path awaiting action.
 
 ## Media Credits
-All audio credit can be found [here](https://docs.google.com/document/d/1MnuXOWpUT3GBYZwcAPRdfPZGw1R78oovI4HOqIb1g24/edit?usp=sharing).
+All audio credits can be found [here](https://docs.google.com/document/d/1MnuXOWpUT3GBYZwcAPRdfPZGw1R78oovI4HOqIb1g24/edit?usp=sharing).
 
 ## License
 - CC BY-NC
